@@ -1,7 +1,7 @@
-import 'package:anime/src/screens/manga_list.dart';
+import 'package:anime/src/widgets/manga_list.dart';
 import 'package:anime/src/widgets/character_list.dart';
 import 'package:flutter/material.dart';
-import 'anime_list.dart';
+import '../widgets/anime_list.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);

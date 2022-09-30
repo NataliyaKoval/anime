@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-import 'anime_screen.dart';
+import '../screens/anime_screen.dart';
 
 class AnimeList extends StatefulWidget {
   const AnimeList({Key? key}) : super(key: key);
